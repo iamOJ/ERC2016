@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="control hardware">
+    <file>keyboard_latest.png</file>
+    <file>game_control.png</file>
+  </qresource>
+</RCC>
